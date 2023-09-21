@@ -16,4 +16,4 @@ Supply Chain Management is the planning of the flow of goods from raw materials 
 (There can be many more..)
 
 
-note: if jupiter note book not loading, try downloading the zip file.
+note: if jupiter notebook not loading, try downloading the zip file.
