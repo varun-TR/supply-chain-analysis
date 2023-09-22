@@ -16,11 +16,11 @@ Supply Chain Management is the planning of the flow of goods from raw materials 
 
 Overall: 
 
--Addressing and resolving the defect issues in haircare products to boost sales.
--Carefully managing stock levels to prevent stockouts or overstocking.
--Considering pricing strategies carefully, especially for cosmetics, to maintain or increase revenue.
--Continuously optimizing the use of rail transport to maximize cost-efficiency.
--Additionally, further analysis should be conducted to understand customer preferences, competition in the skincare and cosmetics markets, and potential strategies to improve the quality and appeal of haircare products to 
- boost their sales.
+1. Addressing and resolving the defect issues in haircare products to boost sales.
+2. Carefully managing stock levels to prevent stockouts or overstocking.
+3. Considering pricing strategies carefully, especially for cosmetics, to maintain or increase revenue.
+4. Continuously optimizing the use of rail transport to maximize cost-efficiency.
+5. Additionally, further analysis should be conducted to understand customer preferences, competition in the skincare and cosmetics markets, and potential strategies to improve the quality and appeal of haircare products 
+   to boost their sales.
 
 note: if jupiter notebook not loading, try downloading the zip file.
